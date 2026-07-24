@@ -7,13 +7,13 @@
       "id": "CAD_Sketcher",
       "name": "CAD Sketcher",
       "tagline": "Parametric, constraint-based geometry sketcher",
-      "version": "0.27.8-latest.6",
+      "version": "0.3.0-latest.7",
       "type": "add-on",
       "maintainer": "hlorus <dave19924@gmail.com>",
       "license": [
         "SPDX:GPL-3.0-or-later"
       ],
-      "blender_version_min": "4.0.0",
+      "blender_version_min": "4.3.0",
       "website": "https://www.cadsketcher.com/",
       "permissions": {
         "files": "Used to load CAD Sketcher assets",
@@ -31,8 +31,8 @@
         "3.13"
       ],
       "archive_url": "https://github.com/hlorus/CAD_Sketcher/releases/download/latest/CAD_Sketcher-latest.zip",
-      "archive_size": 59852729,
-      "archive_hash": "sha256:569f5a1d31714096f91de24a62ed3cc18b125a566b5064c29f06eaace93469af"
+      "archive_size": 59936985,
+      "archive_hash": "sha256:64fd57ee2d45fdf3c3fac80eda12573259d5520bdd53ccdd4bdb7712078d3341"
     }
   ]
 }
