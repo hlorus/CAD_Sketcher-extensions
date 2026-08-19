@@ -7,6 +7,38 @@
       "id": "CAD_Sketcher",
       "name": "CAD Sketcher",
       "tagline": "Parametric, constraint-based geometry sketcher",
+      "version": "0.30.0",
+      "type": "add-on",
+      "maintainer": "hlorus <dave19924@gmail.com>",
+      "license": [
+        "SPDX:GPL-3.0-or-later"
+      ],
+      "blender_version_min": "5.0.0",
+      "website": "https://www.cadsketcher.com/",
+      "permissions": {
+        "files": "Used to load CAD Sketcher assets",
+        "network": "Used to install the solver module from PiPy"
+      },
+      "tags": [
+        "3D View",
+        "Modeling",
+        "Mesh",
+        "Object"
+      ],
+      "python_versions": [
+        "3.11",
+        "3.12",
+        "3.13"
+      ],
+      "archive_url": "https://github.com/hlorus/CAD_Sketcher/releases/download/v0.30.0/CAD_Sketcher-v0.30.0.zip",
+      "archive_size": 43633646,
+      "archive_hash": "sha256:b1da42a4ffa21b108cc87227775375ced5e143f746c64b8dee6b7048355845ef"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "CAD_Sketcher",
+      "name": "CAD Sketcher",
+      "tagline": "Parametric, constraint-based geometry sketcher",
       "version": "0.3.0",
       "type": "add-on",
       "maintainer": "hlorus <dave19924@gmail.com>",
