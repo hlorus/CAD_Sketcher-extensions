@@ -7,7 +7,7 @@
       "id": "CAD_Sketcher",
       "name": "CAD Sketcher",
       "tagline": "Parametric, constraint-based geometry sketcher",
-      "version": "0.30.1-latest.72",
+      "version": "0.30.1-latest.73",
       "type": "add-on",
       "maintainer": "hlorus <dave19924@gmail.com>",
       "license": [
@@ -30,8 +30,8 @@
         "3.13"
       ],
       "archive_url": "https://github.com/hlorus/CAD_Sketcher/releases/download/latest/CAD_Sketcher-latest.zip",
-      "archive_size": 43659173,
-      "archive_hash": "sha256:6d317cb4b580a61755f43218b9b16cdb977d4ae576833f1380514756ed101dca"
+      "archive_size": 43664271,
+      "archive_hash": "sha256:d3dd971361d532c4f19cdda447cdb23f15b99735469aaa8ef390e0552fe9241e"
     }
   ]
 }
