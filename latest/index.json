@@ -7,40 +7,7 @@
       "id": "CAD_Sketcher",
       "name": "CAD Sketcher",
       "tagline": "Parametric, constraint-based geometry sketcher",
-      "version": "0.31.0-latest.100",
-      "type": "add-on",
-      "maintainer": "hlorus <dave19924@gmail.com>",
-      "license": [
-        "SPDX:GPL-3.0-or-later"
-      ],
-      "blender_version_min": "5.0.0",
-      "website": "https://www.cadsketcher.com/",
-      "permissions": {
-        "files": "Used to load CAD Sketcher assets"
-      },
-      "tags": [
-        "3D View",
-        "Modeling",
-        "Mesh",
-        "Object"
-      ],
-      "platforms": [
-        "windows-x64"
-      ],
-      "python_versions": [
-        "3.11",
-        "3.13"
-      ],
-      "archive_url": "https://github.com/hlorus/CAD_Sketcher/releases/download/latest/CAD_Sketcher-0.31.0-latest.100-windows_x64.zip",
-      "archive_size": 1649076,
-      "archive_hash": "sha256:27d6cd5c215a32cfdd70f18292c9bc93fc947d2345e6c95c3dfaf74253f71ca1"
-    },
-    {
-      "schema_version": "1.0.0",
-      "id": "CAD_Sketcher",
-      "name": "CAD Sketcher",
-      "tagline": "Parametric, constraint-based geometry sketcher",
-      "version": "0.31.0-latest.100",
+      "version": "0.31.0-latest.101",
       "type": "add-on",
       "maintainer": "hlorus <dave19924@gmail.com>",
       "license": [
@@ -64,16 +31,16 @@
         "3.11",
         "3.13"
       ],
-      "archive_url": "https://github.com/hlorus/CAD_Sketcher/releases/download/latest/CAD_Sketcher-0.31.0-latest.100-macos_arm64.zip",
-      "archive_size": 1569541,
-      "archive_hash": "sha256:39d0935677c9ee3f0cebf27e7f645d6c66c19c350bf72f19989793f7502c5919"
+      "archive_url": "https://github.com/hlorus/CAD_Sketcher/releases/download/latest/CAD_Sketcher-0.31.0-latest.101-macos_arm64.zip",
+      "archive_size": 1570484,
+      "archive_hash": "sha256:9f82cd6df664b874da456fcd277cc4dbee1d90d34cc9af3a298ac181f5606ec9"
     },
     {
       "schema_version": "1.0.0",
       "id": "CAD_Sketcher",
       "name": "CAD Sketcher",
       "tagline": "Parametric, constraint-based geometry sketcher",
-      "version": "0.31.0-latest.100",
+      "version": "0.31.0-latest.101",
       "type": "add-on",
       "maintainer": "hlorus <dave19924@gmail.com>",
       "license": [
@@ -97,16 +64,16 @@
         "3.11",
         "3.13"
       ],
-      "archive_url": "https://github.com/hlorus/CAD_Sketcher/releases/download/latest/CAD_Sketcher-0.31.0-latest.100-linux_x64.zip",
-      "archive_size": 14334459,
-      "archive_hash": "sha256:f9dc1cb124e8aabb7a371566fbfee0715234f15dfafb2b2d3e23addc1932a0f2"
+      "archive_url": "https://github.com/hlorus/CAD_Sketcher/releases/download/latest/CAD_Sketcher-0.31.0-latest.101-linux_x64.zip",
+      "archive_size": 14335403,
+      "archive_hash": "sha256:8335f63fc1bf6e800e3156d4efb0f4cf1f4792f043d82db12be51def9623bf08"
     },
     {
       "schema_version": "1.0.0",
       "id": "CAD_Sketcher",
       "name": "CAD Sketcher",
       "tagline": "Parametric, constraint-based geometry sketcher",
-      "version": "0.31.0-latest.100",
+      "version": "0.31.0-latest.101",
       "type": "add-on",
       "maintainer": "hlorus <dave19924@gmail.com>",
       "license": [
@@ -130,9 +97,42 @@
         "3.11",
         "3.13"
       ],
-      "archive_url": "https://github.com/hlorus/CAD_Sketcher/releases/download/latest/CAD_Sketcher-0.31.0-latest.100-macos_x64.zip",
-      "archive_size": 1633505,
-      "archive_hash": "sha256:84df8fe0acfafa3747e5fc7ad16d83c6956972fcef9111b46ae10f0ee0cf607b"
+      "archive_url": "https://github.com/hlorus/CAD_Sketcher/releases/download/latest/CAD_Sketcher-0.31.0-latest.101-macos_x64.zip",
+      "archive_size": 1634448,
+      "archive_hash": "sha256:ce1924c1fd1a82b8fdb5b1c4a14bbc332c0f0697dcb9ffdd333e44ca42076899"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "CAD_Sketcher",
+      "name": "CAD Sketcher",
+      "tagline": "Parametric, constraint-based geometry sketcher",
+      "version": "0.31.0-latest.101",
+      "type": "add-on",
+      "maintainer": "hlorus <dave19924@gmail.com>",
+      "license": [
+        "SPDX:GPL-3.0-or-later"
+      ],
+      "blender_version_min": "5.0.0",
+      "website": "https://www.cadsketcher.com/",
+      "permissions": {
+        "files": "Used to load CAD Sketcher assets"
+      },
+      "tags": [
+        "3D View",
+        "Modeling",
+        "Mesh",
+        "Object"
+      ],
+      "platforms": [
+        "windows-x64"
+      ],
+      "python_versions": [
+        "3.11",
+        "3.13"
+      ],
+      "archive_url": "https://github.com/hlorus/CAD_Sketcher/releases/download/latest/CAD_Sketcher-0.31.0-latest.101-windows_x64.zip",
+      "archive_size": 1650019,
+      "archive_hash": "sha256:92fea7bc891e1c567a3df1eec7760916e6048eff949c0313117bf5f5d2652961"
     }
   ]
 }
