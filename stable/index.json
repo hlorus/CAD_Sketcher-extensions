@@ -7,6 +7,96 @@
       "id": "CAD_Sketcher",
       "name": "CAD Sketcher",
       "tagline": "Parametric, constraint-based geometry sketcher",
+      "version": "0.31.0",
+      "type": "add-on",
+      "maintainer": "hlorus <dave19924@gmail.com>",
+      "license": [
+        "SPDX:GPL-3.0-or-later"
+      ],
+      "blender_version_min": "5.0.0",
+      "website": "https://www.cadsketcher.com/",
+      "tags": [
+        "3D View",
+        "Modeling",
+        "Mesh",
+        "Object"
+      ],
+      "platforms": [
+        "macos-x64"
+      ],
+      "python_versions": [
+        "3.11",
+        "3.13"
+      ],
+      "archive_url": "https://github.com/hlorus/CAD_Sketcher/releases/download/v0.31.0/CAD_Sketcher-0.31.0-macos_x64.zip",
+      "archive_size": 1120437,
+      "archive_hash": "sha256:796bef8fddf4432194caa87ea6d3e00383b260cedd849d24b7ab8988c1ffbe3e"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "CAD_Sketcher",
+      "name": "CAD Sketcher",
+      "tagline": "Parametric, constraint-based geometry sketcher",
+      "version": "0.31.0",
+      "type": "add-on",
+      "maintainer": "hlorus <dave19924@gmail.com>",
+      "license": [
+        "SPDX:GPL-3.0-or-later"
+      ],
+      "blender_version_min": "5.0.0",
+      "website": "https://www.cadsketcher.com/",
+      "tags": [
+        "3D View",
+        "Modeling",
+        "Mesh",
+        "Object"
+      ],
+      "platforms": [
+        "macos-arm64"
+      ],
+      "python_versions": [
+        "3.11",
+        "3.13"
+      ],
+      "archive_url": "https://github.com/hlorus/CAD_Sketcher/releases/download/v0.31.0/CAD_Sketcher-0.31.0-macos_arm64.zip",
+      "archive_size": 1056474,
+      "archive_hash": "sha256:8456faccbc1846d988e3425267db2bb77d82bb6933b5c10b8e13624e7ce83d56"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "CAD_Sketcher",
+      "name": "CAD Sketcher",
+      "tagline": "Parametric, constraint-based geometry sketcher",
+      "version": "0.31.0",
+      "type": "add-on",
+      "maintainer": "hlorus <dave19924@gmail.com>",
+      "license": [
+        "SPDX:GPL-3.0-or-later"
+      ],
+      "blender_version_min": "5.0.0",
+      "website": "https://www.cadsketcher.com/",
+      "tags": [
+        "3D View",
+        "Modeling",
+        "Mesh",
+        "Object"
+      ],
+      "platforms": [
+        "windows-x64"
+      ],
+      "python_versions": [
+        "3.11",
+        "3.13"
+      ],
+      "archive_url": "https://github.com/hlorus/CAD_Sketcher/releases/download/v0.31.0/CAD_Sketcher-0.31.0-windows_x64.zip",
+      "archive_size": 1136006,
+      "archive_hash": "sha256:69d2a6b50f3bb36e51a0b92dc1a7c0ea76383f21934fb995896b4972b7111e0e"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "CAD_Sketcher",
+      "name": "CAD Sketcher",
+      "tagline": "Parametric, constraint-based geometry sketcher",
       "version": "0.30.0",
       "type": "add-on",
       "maintainer": "hlorus <dave19924@gmail.com>",
@@ -65,6 +155,36 @@
       "archive_url": "https://github.com/hlorus/CAD_Sketcher/releases/download/v0.27.8/CAD_Sketcher-v0.27.8.zip",
       "archive_size": 59852327,
       "archive_hash": "sha256:df371c55b5306feaa693aa7c9ecac448fd77dff733d47477167047dcfbd92d72"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "CAD_Sketcher",
+      "name": "CAD Sketcher",
+      "tagline": "Parametric, constraint-based geometry sketcher",
+      "version": "0.31.0",
+      "type": "add-on",
+      "maintainer": "hlorus <dave19924@gmail.com>",
+      "license": [
+        "SPDX:GPL-3.0-or-later"
+      ],
+      "blender_version_min": "5.0.0",
+      "website": "https://www.cadsketcher.com/",
+      "tags": [
+        "3D View",
+        "Modeling",
+        "Mesh",
+        "Object"
+      ],
+      "platforms": [
+        "linux-x64"
+      ],
+      "python_versions": [
+        "3.11",
+        "3.13"
+      ],
+      "archive_url": "https://github.com/hlorus/CAD_Sketcher/releases/download/v0.31.0/CAD_Sketcher-0.31.0-linux_x64.zip",
+      "archive_size": 13821391,
+      "archive_hash": "sha256:559ba31249a8cdfc1be206615760b6a4d9daed8558fc85706a048dc60d1a6dc1"
     }
   ]
 }
